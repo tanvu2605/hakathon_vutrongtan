@@ -1,0 +1,22 @@
+
+.navbar .navbar-right{
+    display: flex;
+    flex-direction: row;
+    gap: 20px;
+    
+}
+.navbar a{
+    color: white;
+    font-size: 18px;
+    font-weight: 400;
+    text-decoration: none;
+}
+.navbar {
+    height: 50px;
+    width: 100%;
+   position: fixed;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    float: right;
+}
